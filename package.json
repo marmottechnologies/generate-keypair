@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@solana-developers/helpers": "^2.2.0",
+    "@solana/web3.js": "^1.91.3",
+    "esrun": "^3.2.26",
+    "typescript": "^5.4.3"
+  },
+  "name": "generate-keypair",
+  "description": "Generate Key Pair for Solana Blockchain.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
